@@ -1,0 +1,1 @@
+ this is me first time pusing my code on github through the help of ubuntu i connect my ubuntu to github by generating the shh key in ubuntu system then adding the key in the github so that they could be connected by which i could check git staus git log git add git commit throguh cli.
